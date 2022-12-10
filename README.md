@@ -26,7 +26,7 @@ p3-05: Playing Technique Detection by Fusing Note Onset Information in Guzheng P
 - dataset: https://ccmusic-database.github.io/en/database/ccm.html#GZTech
 - tags: #dataset
 
-	p3-06: KDC: an open corpus for computational research of dastgāhi music
+p3-06: KDC: an open corpus for computational research of dastgāhi music
 - paper: https://ismir2022program.ismir.net/poster_111.html 
 - dataset: https://phaidra.kug.ac.at/view/o:127195
 - tags: #dataset 
